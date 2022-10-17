@@ -1,0 +1,7 @@
+name = "AnomModels1D"
+uuid = "4db68f23-020d-44e9-a56a-b445b2ef0d7e"
+authors = ["Thomas Marks <marksta@umich.edu>"]
+version = "0.1.0"
+
+[deps]
+HallThruster = "2311f341-5e6d-4941-9e3e-3ce0ae0d9ed6"
